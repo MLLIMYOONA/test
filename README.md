@@ -19,7 +19,7 @@ pip install -r requirements.txt
 The datasets we used in the paper come from:
 - [Weibo](https://github.com/CaoQi92/DeepHawkes) (Cao *et al.*, [DeepHawkes: Bridging the Gap between 
 Prediction and Understanding of Information Cascades](https://dl.acm.org/doi/10.1145/3132847.3132973), CIKM, 2017).  
-- [APS](https://journals.aps.org/datasets) (Released by *American Physical Society*, obtained at Jan 17, 2019).  
+- [APS](https://journals.aps.org/datasets) (Released by *American Physical Society*, obtained at Jan 17, 2019).  You can also download the dataset of aps in Google Drive(https://drive.google.com/file/d/1cEzCwLa_l5VMCNYGjQNpFJ_CDbl8St-t/view?usp=sharing).
 
 Make sure the dataset.txt file of aps and weibo are in "data/aps/" and "data/weibo/" directories
 
